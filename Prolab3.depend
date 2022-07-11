@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1609086621 source:d:\program c\prolab3\main.c
+	<stdio.h>
+	<ctype.h>
+	<stdlib.h>
+
